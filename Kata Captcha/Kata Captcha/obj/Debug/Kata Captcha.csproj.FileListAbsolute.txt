@@ -1,0 +1,5 @@
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\Kata Captcha\obj\Debug\Kata Captcha.csprojResolveAssemblyReference.cache
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\Kata Captcha\bin\Debug\Kata Captcha.exe
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\Kata Captcha\bin\Debug\Kata Captcha.pdb
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\Kata Captcha\obj\Debug\Kata Captcha.exe
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\Kata Captcha\obj\Debug\Kata Captcha.pdb
