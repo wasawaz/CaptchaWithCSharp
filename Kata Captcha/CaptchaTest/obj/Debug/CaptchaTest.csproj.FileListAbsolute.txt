@@ -1,0 +1,7 @@
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\bin\Debug\CaptchaTest.dll
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\bin\Debug\CaptchaTest.pdb
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\bin\Debug\nunit.framework.dll
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\bin\Debug\nunit.framework.xml
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.csprojResolveAssemblyReference.cache
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.dll
+c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.pdb
