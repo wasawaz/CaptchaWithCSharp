@@ -1,0 +1,7 @@
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\Service\bin\Debug\Service.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\Service\bin\Debug\Service.pdb
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\Service\bin\Debug\Kata Captcha.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\Service\bin\Debug\Kata Captcha.pdb
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\Service\obj\Debug\Service.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\Service\obj\Debug\Service.pdb

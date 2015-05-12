@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="NSubstitute">
+      <HintPath>..\packages\NSubstitute.1.8.1.0\lib\net40\NSubstitute.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.core">
       <HintPath>..\packages\NUnitTestAdapter.2.0.0\lib\nunit.core.dll</HintPath>
       <Private>False</Private>
@@ -72,11 +75,26 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="IntegrateTest\CaptchaStringTest.cs" />
+    <Compile Include="IntegrateTest\KataCaptchaServiceTest.cs" />
+    <Compile Include="UnitTest\LeftOperandTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTest\RandomTest.cs" />
+    <Compile Include="UnitTest\RightOperandTest.cs" />
+    <Compile Include="UnitTest\OperatorTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Kata Captcha\Kata Captcha.csproj">
+      <Project>{660a07ce-ffb7-4fcb-b39d-74ecde442609}</Project>
+      <Name>Kata Captcha</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Service\Service.csproj">
+      <Project>{9bb6867c-894a-4fac-8188-881e5ae5d5b9}</Project>
+      <Name>Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

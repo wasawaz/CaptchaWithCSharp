@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata Captcha", "Kata Captch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaTest", "CaptchaTest\CaptchaTest.csproj", "{F859FAA6-A217-4A9A-8DD3-580185F061B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{9BB6867C-894A-4FAC-8188-881E5AE5D5B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{F859FAA6-A217-4A9A-8DD3-580185F061B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F859FAA6-A217-4A9A-8DD3-580185F061B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F859FAA6-A217-4A9A-8DD3-580185F061B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB6867C-894A-4FAC-8188-881E5AE5D5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB6867C-894A-4FAC-8188-881E5AE5D5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB6867C-894A-4FAC-8188-881E5AE5D5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB6867C-894A-4FAC-8188-881E5AE5D5B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

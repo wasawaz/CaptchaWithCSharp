@@ -5,3 +5,16 @@ c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\b
 c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.csprojResolveAssemblyReference.cache
 c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.dll
 c:\users\roodic\documents\visual studio 2012\Projects\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.pdb
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\CaptchaTest.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\CaptchaTest.pdb
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\Kata Captcha.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\nunit.framework.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\Kata Captcha.pdb
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\nunit.framework.xml
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.csprojResolveAssemblyReference.cache
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\obj\Debug\CaptchaTest.pdb
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\Service.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\Service.pdb
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\NSubstitute.dll
+D:\Projects\Git\wasawaz\HelloWorld\Kata Captcha\CaptchaTest\bin\Debug\NSubstitute.xml
